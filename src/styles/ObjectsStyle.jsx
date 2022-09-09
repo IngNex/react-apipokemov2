@@ -52,11 +52,11 @@ export const Weaknesses=styled.div`
                 case 'Bug': return '#34d192';
                 case 'Normal': return '#b3bcbc';
                 case 'Electric': return '#ffbb00';
-                case 'Poison': return '#840084';
+                case 'Poison': return '#d96aec';
                 case 'Ghost': return '#271f1f';
-                case 'Psychic': return '#e600ff';
-                case 'Ground': return '#a76124';
-                case 'Fighting': return '#773e0b';
+                case 'Psychic': return '#d607c1';
+                case 'Ground': return '#d36c12';
+                case 'Fighting': return '#ac6120';
                 case 'Ice': return '#0044ff';
                 case 'Rock': return '#cead53';
                 case 'Dragon': return '#8b74ff';

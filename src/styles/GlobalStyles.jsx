@@ -9,7 +9,7 @@ export default createGlobalStyle`
     :root{
         --color-primary: #FEC10E;/*#DF9A09;/*#08b2c9*/
         --color-secondary: #003079;/*#223F7D;/*#28527a*/
-        --color-light: #bfe1d1;
+        --color-light: #ffffff;
         --color-dark: #151515;
     }
     html{
