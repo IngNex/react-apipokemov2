@@ -26,7 +26,7 @@ export default function PokeApi() {
     getPokemones();
   },[])
 
-  console.log(search)
+  //console.log(search)
 
   const pokemonesSearch = pokemones.filter((pokemon)=>pokemon.name.toLocaleLowerCase().includes(search.toLocaleLowerCase()))
 
